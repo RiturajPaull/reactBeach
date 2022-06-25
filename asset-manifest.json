@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactBeach/static/css/main.5d750597.css",
+    "main.js": "/reactBeach/static/js/main.cb0033d7.js",
+    "static/js/787.252c5a3f.chunk.js": "/reactBeach/static/js/787.252c5a3f.chunk.js",
+    "static/media/videoBg.mp4": "/reactBeach/static/media/videoBg.56441fcbb87daf6a532a.mp4",
+    "static/media/keywest.jpg": "/reactBeach/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/reactBeach/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/reactBeach/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/reactBeach/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/reactBeach/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/reactBeach/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/gold.png": "/reactBeach/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/reactBeach/index.html",
+    "main.5d750597.css.map": "/reactBeach/static/css/main.5d750597.css.map",
+    "main.cb0033d7.js.map": "/reactBeach/static/js/main.cb0033d7.js.map",
+    "787.252c5a3f.chunk.js.map": "/reactBeach/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d750597.css",
+    "static/js/main.cb0033d7.js"
+  ]
+}
